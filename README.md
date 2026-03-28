@@ -1,2 +1,2 @@
 # RYNOTE
-Most though out Simple Note App
+Most thought-out Simple Note App
